@@ -10,7 +10,7 @@ metadata:
 spec:
   storageClassName: managed-nfs
   capacity:
-    storage: 500mi
+    storage: 500Mi
   accessModes:
     - ReadWriteMany
   nfs:
